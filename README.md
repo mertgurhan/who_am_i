@@ -1,31 +1,46 @@
-### Merhaba, Ben Mert Gürhan! 👋
+<h1 align="center">Hellü</h1>
 
-Bilgisayar Mühendisliği 4. sınıf öğrencisiyim. Şu anda **Makine Öğrenmesi**, **Veri Analizi** ve **Python** üzerine yoğunlaşmış durumdayım.
-
----
-
-### 🚀 Hakkımda
-- 🎓 Üniversite eğitimime devam ediyorum ve mezuniyet projelerim üzerinde çalışıyorum.
-- 🔭 Şu anda **Wikipedia Web Scraping** ve **Veri Görselleştirme** projeleri geliştiriyorum.
-- 🌱 **Makine Öğrenmesi (Machine Learning)** ve **Derin Öğrenme** alanlarında kendimi geliştiriyorum.
-- 👯 Projelerimde temiz kod ve dokümantasyona önem veririm.
-
-### 🛠 Yetenekler & Araçlar
-
-**Diller & Kütüphaneler:**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Araçlar:**
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub İstatistiklerim
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertgurhan&show_icons=true&theme=radical" height="150" alt="Mert's Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertgurhan&layout=compact&theme=radical" height="150" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="60" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Verilog-%23555555.svg?style=for-the-badge&logo=verilog&logoColor=white" height="60" alt="verilog logo" />
 </div>
 
----
- 📫 **Bana Ulaşın:** [LinkedIn Profiliniz](https://linkedin.com/in/kullaniciadiniz) | [E-Posta Adresiniz](mailto:email@adresiniz.com)
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+###
