@@ -8,6 +8,7 @@ I focus on continuously improving myself in these fields and strengthening my th
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/mert-gürhan-a70bba233/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://x.com/mertbae" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat-square&logo=x&logoColor=white" alt="X"></a> <a href="https://www.instagram.com/mert__gurhan/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
+
 ## Skills
 
 <p align="left">
@@ -58,3 +59,8 @@ The main objective of this project is to allow users to input two different DNA 
 
 ---
 
+### Gender Classification from Speech Using Acoustic Features and Machine Learning
+
+This project aims to predict whether a speaker is male or female by analyzing acoustic features extracted from a speech recording.
+Various characteristics of the audio signal—such as pitch, frequency-based features, and spectral properties—are extracted and used as input to a machine learning classification model.
+By learning the patterns that differ between male and female voices, the trained model can accurately classify the speaker’s gender from a given speech sample.
