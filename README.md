@@ -12,7 +12,8 @@ I focus on continuously improving myself in these fields and strengthening my th
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C/c1.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/C++/c++1.svg" alt="c++" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>&nbsp;
@@ -22,6 +23,7 @@ I focus on continuously improving myself in these fields and strengthening my th
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c++" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Dart/dart1.svg" alt="dart" width="40" height="40"/>&nbsp;
 </p>
 
 ## Projects
