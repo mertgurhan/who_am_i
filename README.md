@@ -1,7 +1,7 @@
 <h1 align="center">Hellü</h1>
 
 ###
-
+şuan yapılıyor
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
