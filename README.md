@@ -1,4 +1,4 @@
-# Hi everyone, I'm Mert Gurhan
+# Hi everyone,
 
 I am Mert Gürhan, a fourth-year Computer Engineering student.  
 My main areas of interest are artificial intelligence, machine learning, and embedded systems.
